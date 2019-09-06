@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Stand Alone Orders">
+	<test name="Stand Alone Simple Orders">
+		<classes>
+			<class
+				name="com.ordercreation.suite.StandAloneOrders.StandAloneSimpleOrders"></class>
+		</classes>
+	</test>
+	<test name="Stand Alone Government Orders">
+		<classes>
+			<class name="com.ordercreation.suite.StandAloneOrders.StandAloneGovOrders"></class>
+		</classes>
+	</test>
+</suite>

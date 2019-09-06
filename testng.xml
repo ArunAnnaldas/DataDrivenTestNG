@@ -1,0 +1,48 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="My suite">
+  <suite-files>
+    <suite-file path="./1_StandAloneOrdersBackup.xml" />
+<!--    <suite-file path="./2_QuickQuote.xml" />-->
+  </suite-files>
+ </suite>
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<!-- <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">-->
+<!--<suite name="My suite">-->
+<!--  <listeners>-->
+<!--    <listener class-name="com.ordercreation.listener.TestsListenerAdapter" />-->
+<!--  </listeners>-->
+<!--  <suite-files>-->
+<!--    <suite-file path="./1_StandAloneOrdersBackup.xml" />-->
+<!--    <suite-file path="./2_QuickQuote.xml" />-->
+<!--  </suite-files>-->
+<!-- </suite>-->
+<!-- -->

@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="2" failed="0" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="My suite" duration-ms="0" started-at="2019-09-06T05:05:41Z" finished-at="2019-09-06T05:05:41Z">
+    <groups>
+    </groups>
+  </suite> <!-- My suite -->
+  <suite name="Stand Alone Orders" duration-ms="26214" started-at="2019-09-06T05:05:15Z" finished-at="2019-09-06T05:05:41Z">
+    <groups>
+    </groups>
+    <test name="Stand Alone Simple Orders" duration-ms="26171" started-at="2019-09-06T05:05:15Z" finished-at="2019-09-06T05:05:41Z">
+      <class name="com.ordercreation.suite.StandAloneOrders.StandAloneSimpleOrders">
+        <test-method status="PASS" signature="checkTestSkip()[pri:0, instance:com.ordercreation.suite.StandAloneOrders.StandAloneSimpleOrders@10bdf5e5]" name="checkTestSkip" is-config="true" duration-ms="3" started-at="2019-09-06T10:35:15Z" finished-at="2019-09-06T10:35:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTestSkip -->
+        <test-method status="PASS" signature="testCaseA1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ordercreation.suite.StandAloneOrders.StandAloneSimpleOrders@10bdf5e5]" name="testCaseA1" duration-ms="7" started-at="2019-09-06T10:35:15Z" data-provider="getTestData" finished-at="2019-09-06T10:35:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[United States]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[CCW]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[STANDARD_ORDER]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[mariar]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Resale]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Self]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Standard]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[1036440.0]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[ESA-C170-K9]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[any]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[2.0]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="23">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="24">
+              <value>
+                <![CDATA[High]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseA1 -->
+        <test-method status="PASS" signature="reportDataSetResult()[pri:0, instance:com.ordercreation.suite.StandAloneOrders.StandAloneSimpleOrders@10bdf5e5]" name="reportDataSetResult" is-config="true" duration-ms="10741" started-at="2019-09-06T10:35:15Z" finished-at="2019-09-06T10:35:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportDataSetResult -->
+        <test-method status="SKIP" signature="testCaseA1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ordercreation.suite.StandAloneOrders.StandAloneSimpleOrders@10bdf5e5]" name="testCaseA1" duration-ms="2" started-at="2019-09-06T10:35:25Z" data-provider="getTestData" finished-at="2019-09-06T10:35:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[United States]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[CCW]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[STANDARD_ORDER]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[mariar]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Resale]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Self]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Standard]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[1036440.0]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[CAB-SFP-50CM=]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[any]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[2.0]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="23">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="24">
+              <value>
+                <![CDATA[High]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Run mode of test data set to NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Run mode of test data set to NO
+	at com.ordercreation.suite.StandAloneOrders.StandAloneSimpleOrders.testCaseA1(StandAloneSimpleOrders.java:71)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:774)
+	at org.testng.TestRunner.run(TestRunner.java:624)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:261)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1211)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+	at org.testng.TestNG.run(TestNG.java:1048)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseA1 -->
+        <test-method status="PASS" signature="reportDataSetResult()[pri:0, instance:com.ordercreation.suite.StandAloneOrders.StandAloneSimpleOrders@10bdf5e5]" name="reportDataSetResult" is-config="true" duration-ms="5224" started-at="2019-09-06T10:35:25Z" finished-at="2019-09-06T10:35:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportDataSetResult -->
+        <test-method status="PASS" signature="reportTestResult()[pri:0, instance:com.ordercreation.suite.StandAloneOrders.StandAloneSimpleOrders@10bdf5e5]" name="reportTestResult" is-config="true" duration-ms="10169" started-at="2019-09-06T10:35:31Z" finished-at="2019-09-06T10:35:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportTestResult -->
+      </class> <!-- com.ordercreation.suite.StandAloneOrders.StandAloneSimpleOrders -->
+    </test> <!-- Stand Alone Simple Orders -->
+    <test name="Stand Alone Government Orders" duration-ms="10" started-at="2019-09-06T05:05:41Z" finished-at="2019-09-06T05:05:41Z">
+      <class name="com.ordercreation.suite.StandAloneOrders.StandAloneGovOrders">
+        <test-method status="PASS" signature="checkSuiteSkip_1()[pri:0, instance:com.ordercreation.suite.StandAloneOrders.StandAloneGovOrders@2286778]" name="checkSuiteSkip_1" is-config="true" duration-ms="6253" started-at="2019-09-06T10:35:08Z" finished-at="2019-09-06T10:35:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSuiteSkip_1 -->
+        <test-method status="SKIP" signature="checkTestSkip()[pri:0, instance:com.ordercreation.suite.StandAloneOrders.StandAloneGovOrders@2286778]" name="checkTestSkip" is-config="true" duration-ms="0" started-at="2019-09-06T10:35:41Z" finished-at="2019-09-06T10:35:41Z">
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping Test Case StandAloneGovOrders as runmode is set to NO]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping Test Case StandAloneGovOrders as runmode is set to NO
+	at com.ordercreation.suite.StandAloneOrders.StandAloneGovOrders.checkTestSkip(StandAloneGovOrders.java:38)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:510)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:211)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:138)
+	at org.testng.TestRunner.beforeRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:261)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1211)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+	at org.testng.TestNG.run(TestNG.java:1048)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTestSkip -->
+        <test-method status="SKIP" signature="testCaseA1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ordercreation.suite.StandAloneOrders.StandAloneGovOrders@2286778]" name="testCaseA1" duration-ms="1" started-at="2019-09-06T10:35:41Z" data-provider="getTestData" finished-at="2019-09-06T10:35:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[United States]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[CCW]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[STANDARD_ORDER]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[andyoconnor]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Resale]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Self]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Standard]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[1036440.0]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[PF-6.1-BU-K9]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[any]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[2.0]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="23">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="24">
+              <value>
+                <![CDATA[High]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseA1 -->
+        <test-method status="SKIP" signature="reportDataSetResult()[pri:0, instance:com.ordercreation.suite.StandAloneOrders.StandAloneGovOrders@2286778]" name="reportDataSetResult" is-config="true" duration-ms="0" started-at="2019-09-06T10:35:41Z" finished-at="2019-09-06T10:35:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportDataSetResult -->
+        <test-method status="SKIP" signature="reportTestResult()[pri:0, instance:com.ordercreation.suite.StandAloneOrders.StandAloneGovOrders@2286778]" name="reportTestResult" is-config="true" duration-ms="0" started-at="2019-09-06T10:35:41Z" finished-at="2019-09-06T10:35:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportTestResult -->
+      </class> <!-- com.ordercreation.suite.StandAloneOrders.StandAloneGovOrders -->
+    </test> <!-- Stand Alone Government Orders -->
+  </suite> <!-- Stand Alone Orders -->
+</testng-results>

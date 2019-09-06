@@ -1,0 +1,9 @@
+27/05/2013 14:47:31 devpinoyLogger Loading Property Files
+27/05/2013 14:47:31 devpinoyLogger Loaded Property Files successfully
+27/05/2013 14:47:31 devpinoyLogger Loading xls files 
+27/05/2013 14:47:58 devpinoyLogger Loaded xls files successfully
+27/05/2013 14:47:58 devpinoyLogger Checking Runmode of Suite StandAloneGovOrders
+27/05/2013 14:47:58 devpinoyLogger StandAloneOrdersBackup RUNMODE = Y
+27/05/2013 14:47:58 devpinoyLogger  Executing StandAloneSimpleOrders
+27/05/2013 14:48:17 devpinoyLogger Browser instance created successfully
+27/05/2013 14:56:08 devpinoyLogger test case StandAloneGovOrders skipped

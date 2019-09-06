@@ -1,0 +1,28 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Quote to Order">
+
+<test name="Standard Q2O Quote to Order">
+    <classes>
+        <class name="com.ordercreation.suite.QuickQuote.StandardQ2O" ></class>  
+    </classes>
+</test>
+
+<test name="Try And Buy">
+    <classes>
+        <class name="com.ordercreation.suite.QuickQuote.TryAndBuy" ></class>  
+    </classes>
+</test>
+
+<!--<test name="Test B3">-->
+<!--    <classes>-->
+<!--        <class name="com.ordercreation.suiteB.TestCase_B3" ></class>  -->
+<!--    </classes>-->
+<!--</test>-->
+
+<!--<test name="Mailing File">-->
+<!--    <classes>-->
+<!--        <class name="com.ordercreation.util.SendMail" ></class>  -->
+<!--    </classes>-->
+<!--</test>-->
+</suite>
+

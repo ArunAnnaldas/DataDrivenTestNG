@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Stand Alone Orders]">
+  <test name="Stand Alone Simple Orders(failed)">
+    <classes>
+      <class name="com.ordercreation.suite.StandAloneOrders.StandAloneSimpleOrders">
+        <methods>
+          <include name="reportDataSetResult"/>
+          <include name="testCaseA1" invocation-numbers="1"/>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- com.ordercreation.suite.StandAloneOrders.StandAloneSimpleOrders -->
+      <class name="com.ordercreation.suite.StandAloneOrders.StandAloneGovOrders">
+        <methods>
+          <include name="checkSuiteSkip_1"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- com.ordercreation.suite.StandAloneOrders.StandAloneGovOrders -->
+    </classes>
+  </test> <!-- Stand Alone Simple Orders(failed) -->
+  <test name="Stand Alone Government Orders(failed)">
+    <classes>
+      <class name="com.ordercreation.suite.StandAloneOrders.StandAloneSimpleOrders">
+        <methods>
+          <include name="reportDataSetResult"/>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- com.ordercreation.suite.StandAloneOrders.StandAloneSimpleOrders -->
+      <class name="com.ordercreation.suite.StandAloneOrders.StandAloneGovOrders">
+        <methods>
+          <include name="testCaseA1"/>
+          <include name="checkSuiteSkip_1"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- com.ordercreation.suite.StandAloneOrders.StandAloneGovOrders -->
+    </classes>
+  </test> <!-- Stand Alone Government Orders(failed) -->
+</suite> <!-- Failed suite [Stand Alone Orders] -->
